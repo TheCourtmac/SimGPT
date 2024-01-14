@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SimGPT",
+			"Path": "..\\Source\\SimGPT.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SimGPTEditor",
+			"Path": "..\\Source\\SimGPTEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
