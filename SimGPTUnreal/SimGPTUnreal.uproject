@@ -73,8 +73,7 @@
 			"Name": "nDisplay",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
+				"Win64"
 			]
 		},
 		{
@@ -82,8 +81,7 @@
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64"
-			],
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/91088fb17fb04b6b9eda41aaf8fda21e"
+			]
 		},
 		{
 			"Name": "BlackmagicMedia",
@@ -91,8 +89,7 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux"
-			],
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/433d28bdfb764ec5b2e60c4f45d5cb5c"
+			]
 		},
 		{
 			"Name": "AppleProResMedia",
@@ -112,22 +109,14 @@
 			"Name": "AppleARKit",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"IOS",
-				"Win64",
-				"Mac",
-				"Linux",
-				"Android"
+				"IOS"
 			]
 		},
 		{
 			"Name": "AppleARKitFaceSupport",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"IOS",
-				"Win64",
-				"Mac",
-				"Linux",
-				"Android"
+				"IOS"
 			]
 		},
 		{
