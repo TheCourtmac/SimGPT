@@ -5,14 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/UserInputBlueprint.uasset",
-				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/FirstPerson/Maps/TextEnterScene.umap",
-				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/UIThings/UserInputBlueprint.uasset",
-				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
-				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/UserInputMap.umap",
-				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/UIThings/MenuGamemode.uasset",
-				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/UIThings/SimGPT_Image_1.uasset"
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/UIThings/UserInputBlueprint.uasset"
 			]
 		}
 	]
