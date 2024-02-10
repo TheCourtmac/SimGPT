@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\mckra\\Documents\\GitHub\\SimGPTActual\\SimGPT\\Source\\SimGPT\\SimGPT.Build.cs",
-		"C:\\Users\\mckra\\Documents\\GitHub\\SimGPTActual\\SimGPT\\Source\\SimGPT.Target.cs",
-		"C:\\Users\\mckra\\Documents\\GitHub\\SimGPTActual\\SimGPT\\Source\\SimGPTEditor.Target.cs"
+		"C:\\Users\\AFAMS17\\Documents\\GitHub\\SimGPT\\SimGPT\\Source\\SimGPT\\SimGPT.Build.cs",
+		"C:\\Users\\AFAMS17\\Documents\\GitHub\\SimGPT\\SimGPT\\Source\\SimGPT.Target.cs",
+		"C:\\Users\\AFAMS17\\Documents\\GitHub\\SimGPT\\SimGPT\\Source\\SimGPTEditor.Target.cs"
 	],
-	"EngineVersion": "5.3.1"
+	"EngineVersion": "5.3.2"
 }

@@ -11,6 +11,7 @@
     <None Include="..\..\Source\SimGPTEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -35,9 +36,6 @@
     <ClCompile Include="..\..\Source\SimGPT\ReadWriteFile.cpp">
       <Filter>Source\SimGPT</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\SimGPT\ReadWriteFile.generated.h">
-      <Filter>Source\SimGPT</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\Source\SimGPT\ReadWriteFile.h">
       <Filter>Source\SimGPT</Filter>
     </ClInclude>
@@ -48,6 +46,17 @@
       <Filter>Source\SimGPT</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SimGPT\SimGPT.h">
+      <Filter>Source\SimGPT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SimGPT\WriteJson.cpp">
+      <Filter>Source\SimGPT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SimGPT\WriteJson.h">
+      <Filter>Source\SimGPT</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WriteJson.generated.h">
       <Filter>Source\SimGPT</Filter>
     </ClInclude>
   </ItemGroup>
