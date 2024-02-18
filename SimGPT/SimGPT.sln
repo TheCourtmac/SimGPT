@@ -110,11 +110,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicGames.Tracing", "..\..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicGames.UHT", "..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.UHT\EpicGames.UHT.csproj", "{8B13F3E3-E96D-323F-856E-1119A7804A5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceRules", "..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Intermediate\Build\BuildRulesProjects\MarketplaceRules\MarketplaceRules.csproj", "{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UE5ProgramRules", "..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Intermediate\Build\BuildRulesProjects\UE5ProgramRules\UE5ProgramRules.csproj", "{6AD9E4C5-2F0D-339D-B434-01ACE48F5238}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UE5Rules", "..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Intermediate\Build\BuildRulesProjects\UE5Rules\UE5Rules.csproj", "{B6CFA7F6-D814-324B-BD6B-9D340F875363}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimGPTModuleRules", "Intermediate\Build\BuildRulesProjects\SimGPTModuleRules\SimGPTModuleRules.csproj", "{C10E7BF0-598A-339A-9B96-1464A6EF630E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimGPTModuleRules", "Intermediate\Build\BuildRulesProjects\SimGPTModuleRules\SimGPTModuleRules.csproj", "{93761CB4-F28F-3DBE-BAA8-D333BB25612D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualizers", "Visualizers", "{1CCEC849-CC72-4C59-8C36-2F7C38706D4C}"
 	ProjectSection(SolutionItems) = preProject
@@ -580,6 +582,16 @@ Global
 		{8B13F3E3-E96D-323F-856E-1119A7804A5C}.Development|Win64.Build.0 = Development|Any CPU
 		{8B13F3E3-E96D-323F-856E-1119A7804A5C}.Shipping|Win64.ActiveCfg = Development|Any CPU
 		{8B13F3E3-E96D-323F-856E-1119A7804A5C}.Shipping|Win64.Build.0 = Development|Any CPU
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}.DebugGame Editor|Win64.ActiveCfg = Development|Any CPU
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}.DebugGame Editor|Win64.Build.0 = Development|Any CPU
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}.DebugGame|Win64.ActiveCfg = Development|Any CPU
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}.DebugGame|Win64.Build.0 = Development|Any CPU
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}.Development Editor|Win64.ActiveCfg = Development|Any CPU
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}.Development Editor|Win64.Build.0 = Development|Any CPU
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}.Development|Win64.ActiveCfg = Development|Any CPU
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}.Development|Win64.Build.0 = Development|Any CPU
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}.Shipping|Win64.ActiveCfg = Development|Any CPU
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F}.Shipping|Win64.Build.0 = Development|Any CPU
 		{6AD9E4C5-2F0D-339D-B434-01ACE48F5238}.DebugGame Editor|Win64.ActiveCfg = Development|Any CPU
 		{6AD9E4C5-2F0D-339D-B434-01ACE48F5238}.DebugGame Editor|Win64.Build.0 = Development|Any CPU
 		{6AD9E4C5-2F0D-339D-B434-01ACE48F5238}.DebugGame|Win64.ActiveCfg = Development|Any CPU
@@ -600,16 +612,16 @@ Global
 		{B6CFA7F6-D814-324B-BD6B-9D340F875363}.Development|Win64.Build.0 = Development|Any CPU
 		{B6CFA7F6-D814-324B-BD6B-9D340F875363}.Shipping|Win64.ActiveCfg = Development|Any CPU
 		{B6CFA7F6-D814-324B-BD6B-9D340F875363}.Shipping|Win64.Build.0 = Development|Any CPU
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E}.DebugGame Editor|Win64.ActiveCfg = Development|Any CPU
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E}.DebugGame Editor|Win64.Build.0 = Development|Any CPU
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E}.DebugGame|Win64.ActiveCfg = Development|Any CPU
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E}.DebugGame|Win64.Build.0 = Development|Any CPU
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E}.Development Editor|Win64.ActiveCfg = Development|Any CPU
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E}.Development Editor|Win64.Build.0 = Development|Any CPU
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E}.Development|Win64.ActiveCfg = Development|Any CPU
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E}.Development|Win64.Build.0 = Development|Any CPU
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E}.Shipping|Win64.ActiveCfg = Development|Any CPU
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E}.Shipping|Win64.Build.0 = Development|Any CPU
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D}.DebugGame Editor|Win64.ActiveCfg = Development|Any CPU
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D}.DebugGame Editor|Win64.Build.0 = Development|Any CPU
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D}.DebugGame|Win64.ActiveCfg = Development|Any CPU
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D}.DebugGame|Win64.Build.0 = Development|Any CPU
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D}.Development Editor|Win64.ActiveCfg = Development|Any CPU
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D}.Development Editor|Win64.Build.0 = Development|Any CPU
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D}.Development|Win64.ActiveCfg = Development|Any CPU
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D}.Development|Win64.Build.0 = Development|Any CPU
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D}.Shipping|Win64.ActiveCfg = Development|Any CPU
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D}.Shipping|Win64.Build.0 = Development|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -663,8 +675,9 @@ Global
 		{DDE3B296-7ECE-35A7-852D-59AE27322FDB} = {57713676-9DBE-331C-AD10-26632AC9EE0C}
 		{0CBEC5B1-7181-3E49-81C9-83FD951D63CD} = {57713676-9DBE-331C-AD10-26632AC9EE0C}
 		{8B13F3E3-E96D-323F-856E-1119A7804A5C} = {57713676-9DBE-331C-AD10-26632AC9EE0C}
+		{3DBF91C2-B6FF-36F4-B3EF-8D8DF60CD87F} = {C2F57ECE-B26F-39D8-BDA7-C1D40BD8F180}
 		{6AD9E4C5-2F0D-339D-B434-01ACE48F5238} = {C2F57ECE-B26F-39D8-BDA7-C1D40BD8F180}
 		{B6CFA7F6-D814-324B-BD6B-9D340F875363} = {C2F57ECE-B26F-39D8-BDA7-C1D40BD8F180}
-		{C10E7BF0-598A-339A-9B96-1464A6EF630E} = {C2F57ECE-B26F-39D8-BDA7-C1D40BD8F180}
+		{93761CB4-F28F-3DBE-BAA8-D333BB25612D} = {C2F57ECE-B26F-39D8-BDA7-C1D40BD8F180}
 	EndGlobalSection
 EndGlobal
