@@ -5,9 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/UIThings/UserInputBlueprint.uasset",
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/FirstPerson/Maps/GaussianSplat.umap",
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/XV3dGS/DragonPlush/DragonPlush_buffers.uasset",
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/XV3dGS/DragonPlush/pos.uasset",
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/XV3dGS/DragonPlush/scale.uasset",
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/XV3dGS/DragonPlush/quat.uasset",
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/XV3dGS/DragonPlush/sh_0.uasset",
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/XV3dGS/DragonPlush/DragonPlush.uasset",
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0B/D65H9OTKVDSORBL1SMWL9Z.uasset",
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/FirstPerson/Blueprints/InstantiateSplat.uasset",
+				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/H3/0LPWZA77H8VD3IY4VK0THD.uasset",
 				"C:/Users/AFAMS17/Documents/GitHub/SimGPT/SimGPT/Content/UIThings/UserInputBlueprint.uasset",
-				"C:/Users/AFAMS17/Documents/GitHub/SimGPT/SimGPT/Content/FirstPerson/Maps/UserInputMap.umap",
-				"C:/Users/mckra/Documents/GitHub/SimGPTActual/SimGPT/Content/UIThings/UserInputBlueprint.uasset"
+				"C:/Users/AFAMS17/Documents/GitHub/SimGPT/SimGPT/Content/FirstPerson/Maps/UserInputMap.umap"
 			]
 		}
 	]

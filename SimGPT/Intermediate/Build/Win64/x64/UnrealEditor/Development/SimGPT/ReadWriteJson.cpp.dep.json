@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mckra\\documents\\github\\simgptactual\\simgpt\\source\\simgpt\\readwritejson.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mckra\\documents\\github\\simgptactual\\simgpt\\intermediate\\build\\win64\\x64\\simgpteditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\mckra\\documents\\github\\simgptactual\\simgpt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simgpt\\definitions.simgpt.h",
+            "c:\\users\\mckra\\documents\\github\\simgptactual\\simgpt\\source\\simgpt\\readwritejson.h",
+            "c:\\users\\mckra\\documents\\github\\simgptactual\\simgpt\\intermediate\\build\\win64\\unrealeditor\\inc\\simgpt\\uht\\readwritejson.generated.h",
+            "c:\\users\\mckra\\documents\\github\\simgptactual\\simgpt\\source\\simgpt\\readwritefile.h",
+            "c:\\users\\mckra\\documents\\github\\simgptactual\\simgpt\\intermediate\\build\\win64\\unrealeditor\\inc\\simgpt\\uht\\readwritefile.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectconverter.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectwrapper.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonutilities\\uht\\jsonobjectwrapper.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

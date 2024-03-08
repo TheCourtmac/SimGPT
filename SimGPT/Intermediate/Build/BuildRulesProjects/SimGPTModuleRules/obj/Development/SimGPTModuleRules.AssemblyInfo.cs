@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimGPTModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1534c18aabb34d5c5e3d0534ebfab24a3cd62968")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee71415b0e96a5b235644cfc649d13b4fc625325")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimGPTModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimGPTModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
