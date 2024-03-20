@@ -1,6 +1,8 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\mckra\\Documents\\GitHub\\SimGPTActual\\SimGPT\\Source\\SimGPT\\SimGPT.Build.cs",
+		"C:\\Users\\mckra\\Documents\\GitHub\\SimGPTActual\\SimGPT\\Plugins\\XV3dGS\\Source\\GSImporter\\GSImporter.Build.cs",
+		"C:\\Users\\mckra\\Documents\\GitHub\\SimGPTActual\\SimGPT\\Plugins\\XV3dGS\\Source\\GSRuntime\\GSRuntime.Build.cs",
 		"C:\\Users\\mckra\\Documents\\GitHub\\SimGPTActual\\SimGPT\\Source\\SimGPT.Target.cs",
 		"C:\\Users\\mckra\\Documents\\GitHub\\SimGPTActual\\SimGPT\\Source\\SimGPTEditor.Target.cs"
 	],
