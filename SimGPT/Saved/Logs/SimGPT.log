@@ -1218,3 +1218,32 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.25-04.27.43:048][550]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
 [2024.03.25-04.27.55:641][911]LogSlate: Window 'XV3dGS' being destroyed
 [2024.03.25-04.27.55:646][911]LogSlate: Window 'XV3dGS' being destroyed
+[2024.03.25-04.28.56:018][329]BlueprintLog: New page: Compile secondWindow_SimGPT
+[2024.03.25-04.28.56:069][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.03.25-04.28.58:930][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-04.28.59:025][482]LogSavePackage: Moving output files for package: /XV3dGS/window/BP/secondWindow_SimGPT
+[2024.03.25-04.28.59:026][482]LogSavePackage: Moving '../../../../../../Users/mckra/Documents/GitHub/SimGPT New/SimGPT/Saved/secondWindow_SimGPT81F3FC6646E4F5137247BA8CDD7DD4B2.tmp' to '../../../../../../Users/mckra/Documents/GitHub/SimGPT New/SimGPT/Plugins/XV3dGS/Content/window/BP/secondWindow_SimGPT.uasset'
+[2024.03.25-04.28.59:035][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 242 ms)
+[2024.03.25-04.28.59:037][482]AssetCheck: New page: Asset Save: secondWindow_SimGPT
+[2024.03.25-04.28.59:037][482]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /XV3dGS/window/BP/secondWindow_SimGPT.secondWindow_SimGPT
+[2024.03.25-04.29.00:716][575]LogScript: Warning: Script Msg: No world was found for object (/Engine/Transient.GameInstance_0:mainWindow_C_2.WidgetTree_0.secondWindow_SimGPT_97) passed in to UEngine::GetWorldFromContextObject().
+[2024.03.25-04.29.00:716][575]LogScript: Warning: Script Msg called by: secondWindow_SimGPT_C /Engine/Transient.GameInstance_0:mainWindow_C_2.WidgetTree_0.secondWindow_SimGPT_97
+[2024.03.25-04.29.00:716][575]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	secondWindow_SimGPT_C /Engine/Transient.GameInstance_0:mainWindow_C_2.WidgetTree_0.secondWindow_SimGPT_97
+	Function /XV3dGS/window/BP/secondWindow_SimGPT.secondWindow_SimGPT_C:ExecuteUbergraph_secondWindow_SimGPT:03AC
+[2024.03.25-04.29.00:716][575]LogScript: Warning: Script Msg: No world was found for object (/Engine/Transient.GameInstance_0:mainWindow_C_2.WidgetTree_0.secondWindow_SimGPT_97) passed in to UEngine::GetWorldFromContextObject().
+[2024.03.25-04.29.00:716][575]LogScript: Warning: Script Msg called by: secondWindow_SimGPT_C /Engine/Transient.GameInstance_0:mainWindow_C_2.WidgetTree_0.secondWindow_SimGPT_97
+[2024.03.25-04.29.00:716][575]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2024.03.25-04.29.05:851][881]LogSlate: Window 'XV3dGS' being destroyed
+[2024.03.25-04.29.05:856][881]LogSlate: Window 'XV3dGS' being destroyed
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: 000009DA0673AF00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: 000009DA0673AF00: libcurl info message cache 0 (Found bundle for host: 0x9d98c960750 [serially])
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: 000009DA0673AF00: libcurl info message cache 1 (Re-using existing connection #1 with host datarouter.ol.epicgames.com)
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: 000009DA0673AF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.144.12.234) port 443 (#1))
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: 000009DA0673AF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: 000009DA0673AF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: 000009DA0673AF00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: 000009DA0673AF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: 000009DA0673AF00: libcurl info message cache 7 (Closing connection 1)
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: 000009DA0673AF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-04.29.19:321][968]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B83B6DE8C-4DFC-413B-65CE-FBA1BA70DA17%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=57a2591c413613eb743ee5be8b8865b9%7C84499404f293495bbb829db8caee72c2%7C4942ae7c-4239-4b2d-a124-6469de944ff6&AppEnvironment=datacollector-binary&UploadType=eteventstream
