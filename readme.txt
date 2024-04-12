@@ -25,3 +25,5 @@ Notes:
 - When installing stable diffusion, make sure to edit the web-user.bat file to include --api in the launch arguments.
 - Change directory paths that are commented in the scripts to reflect your paths
 - The .mp4 file is attained either by saving the .mp4 from the video link displayed by the frontend or by going into the static folder inside of scripts. The file is named interpolation.mp4
+- CUDA toolkit is needed for this application. Version 11.8 works.
+- XV3DTools tools are needed for the splat generation. They can be downloaded here: https://github.com/xverse-engine/XV3DGS-UEPlugin
